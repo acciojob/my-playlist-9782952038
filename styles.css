@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	padding:0px;
+	margin:0px;
+	color:blue
+}
+img{
+	height:200px;
+	width:200px;
+}
+a{
+	text-decoration:none;
+	color:blue;
